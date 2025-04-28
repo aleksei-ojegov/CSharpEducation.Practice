@@ -1,0 +1,15 @@
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\bin\Debug\net8.0\Practice2.Task16.exe
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\bin\Debug\net8.0\Practice2.Task16.deps.json
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\bin\Debug\net8.0\Practice2.Task16.runtimeconfig.json
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\bin\Debug\net8.0\Practice2.Task16.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\bin\Debug\net8.0\Practice2.Task16.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\Practice2.Task16.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\Practice2.Task16.AssemblyInfoInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\Practice2.Task16.AssemblyInfo.cs
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\Practice2.Task16.csproj.CoreCompileInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\Practice2.Task16.sourcelink.json
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\Practice2.Task16.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\refint\Practice2.Task16.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\Practice2.Task16.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\Practice2.Task16.genruntimeconfig.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task16\obj\Debug\net8.0\ref\Practice2.Task16.dll

@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2A88FB6-2B9E-47AB-873B-3DF40008D63E}|Practice2.Task6\\Practice2.Task6.csproj|e:\\visual studio\\csharpeducation.practice\\practice2.task1\\practice2.task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2A88FB6-2B9E-47AB-873B-3DF40008D63E}|Practice2.Task6\\Practice2.Task6.csproj|solutionrelative:practice2.task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B36E3DFF-DFA3-458D-BB3D-BDEE6A6AF5D5}|Practice2.Task3\\Practice2.Task3.csproj|e:\\visual studio\\csharpeducation.practice\\practice2.task1\\practice2.task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B36E3DFF-DFA3-458D-BB3D-BDEE6A6AF5D5}|Practice2.Task3\\Practice2.Task3.csproj|solutionrelative:practice2.task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice.Task3\\Practice2.Task3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice.Task3\\Practice2.Task3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A73F7DA-93F2-4D1E-B582-272B85D87B2C}|Practice2.Task1\\Practice2.Task1.csproj|e:\\visual studio\\csharpeducation.practice\\practice2.task1\\practice2.task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A73F7DA-93F2-4D1E-B582-272B85D87B2C}|Practice2.Task1\\Practice2.Task1.csproj|solutionrelative:practice2.task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5831F4CB-4D0D-429B-B82B-A7ADF1E410FA}|Practice2.Task2\\Practice2.Task2.csproj|e:\\visual studio\\csharpeducation.practice\\practice2.task1\\practice2.task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5831F4CB-4D0D-429B-B82B-A7ADF1E410FA}|Practice2.Task2\\Practice2.Task2.csproj|solutionrelative:practice2.task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5831F4CB-4D0D-429B-B82B-A7ADF1E410FA}|Practice2.Task2\\Practice2.Task2.csproj|e:\\visual studio\\csharpeducation.practice\\practice2.task1\\practice2.task2\\practice2.task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5831F4CB-4D0D-429B-B82B-A7ADF1E410FA}|Practice2.Task2\\Practice2.Task2.csproj|solutionrelative:practice2.task2\\practice2.task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACBB3F3E-AE6A-4519-B4C5-CE8565346571}|Practice2.Task4\\Practice2.Task4.csproj|e:\\visual studio\\csharpeducation.practice\\practice2.task1\\practice2.task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACBB3F3E-AE6A-4519-B4C5-CE8565346571}|Practice2.Task4\\Practice2.Task4.csproj|solutionrelative:practice2.task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF1F931-61F0-45EB-BE13-A6EE12DAA442}|Practice2.Task5\\Practice2.Task5.csproj|e:\\visual studio\\csharpeducation.practice\\practice2.task1\\practice2.task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FF1F931-61F0-45EB-BE13-A6EE12DAA442}|Practice2.Task5\\Practice2.Task5.csproj|solutionrelative:practice2.task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice.Task3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice.Task3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A254344C-35E8-41D2-88B0-F63FCA7C4E4D}|Practice2.Task25\\Practice2.Task25.csproj|e:\\visual studio\\csharpeducation.practice\\practice2.task1\\practice2.task25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A254344C-35E8-41D2-88B0-F63FCA7C4E4D}|Practice2.Task25\\Practice2.Task25.csproj|solutionrelative:practice2.task25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,113 +22,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task3\\Program.cs",
-              "RelativeDocumentMoniker": "Practice2.Task3\\Program.cs",
-              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task3\\Program.cs",
-              "RelativeToolTip": "Practice2.Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:21:21.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Practice2.Task3.csproj",
-              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice.Task3\\Practice2.Task3.csproj",
-              "RelativeDocumentMoniker": "Practice.Task3\\Practice2.Task3.csproj",
-              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice.Task3\\Practice2.Task3.csproj",
-              "RelativeToolTip": "Practice.Task3\\Practice2.Task3.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-28T06:16:54.33Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task6\\Program.cs",
-              "RelativeDocumentMoniker": "Practice2.Task6\\Program.cs",
-              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task6\\Program.cs",
-              "RelativeToolTip": "Practice2.Task6\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCYAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task25\\Program.cs",
+              "RelativeDocumentMoniker": "Practice2.Task25\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task25\\Program.cs",
+              "RelativeToolTip": "Practice2.Task25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:48:01.307Z",
+              "WhenOpened": "2025-04-28T11:05:22.71Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task5\\Program.cs",
-              "RelativeDocumentMoniker": "Practice2.Task5\\Program.cs",
-              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task5\\Program.cs",
-              "RelativeToolTip": "Practice2.Task5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:43:07.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task4\\Program.cs",
-              "RelativeDocumentMoniker": "Practice2.Task4\\Program.cs",
-              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task4\\Program.cs",
-              "RelativeToolTip": "Practice2.Task4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:28:10.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice.Task3\\Program.cs",
-              "RelativeDocumentMoniker": "Practice.Task3\\Program.cs",
-              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice.Task3\\Program.cs",
-              "RelativeToolTip": "Practice.Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:19:36.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Practice2.Task2.csproj",
-              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task2\\Practice2.Task2.csproj",
-              "RelativeDocumentMoniker": "Practice2.Task2\\Practice2.Task2.csproj",
-              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task2\\Practice2.Task2.csproj",
-              "RelativeToolTip": "Practice2.Task2\\Practice2.Task2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T15:14:20.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task2\\Program.cs",
-              "RelativeDocumentMoniker": "Practice2.Task2\\Program.cs",
-              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task2\\Program.cs",
-              "RelativeToolTip": "Practice2.Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:10:48.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Practice2.Task1\\Program.cs",
-              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice2.Task1\\Practice2.Task1\\Program.cs",
-              "RelativeToolTip": "Practice2.Task1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T14:55:58.138Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\bin\Debug\net8.0\Practice2.Task22.exe
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\bin\Debug\net8.0\Practice2.Task22.deps.json
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\bin\Debug\net8.0\Practice2.Task22.runtimeconfig.json
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\bin\Debug\net8.0\Practice2.Task22.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\bin\Debug\net8.0\Practice2.Task22.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\Practice2.Task22.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\Practice2.Task22.AssemblyInfoInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\Practice2.Task22.AssemblyInfo.cs
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\Practice2.Task22.csproj.CoreCompileInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\Practice2.Task22.sourcelink.json
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\Practice2.Task22.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\refint\Practice2.Task22.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\Practice2.Task22.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\Practice2.Task22.genruntimeconfig.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task22\obj\Debug\net8.0\ref\Practice2.Task22.dll
