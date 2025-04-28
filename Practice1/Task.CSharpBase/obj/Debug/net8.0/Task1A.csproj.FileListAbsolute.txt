@@ -12,3 +12,18 @@ C:\Users\Студент213-2\source\repos\Ozhegov_super_star\CSharpEducation.Pra
 C:\Users\Студент213-2\source\repos\Ozhegov_super_star\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net8.0\Task1A.pdb
 C:\Users\Студент213-2\source\repos\Ozhegov_super_star\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net8.0\Task1A.genruntimeconfig.cache
 C:\Users\Студент213-2\source\repos\Ozhegov_super_star\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net8.0\ref\Task1A.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\Task1A.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\Task1A.AssemblyInfoInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\Task1A.AssemblyInfo.cs
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\Task1A.csproj.CoreCompileInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\Task1A.sourcelink.json
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\Task1A.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\refint\Task1A.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\Task1A.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\bin\Debug\net8.0\Task1A.exe
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\bin\Debug\net8.0\Task1A.deps.json
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\bin\Debug\net8.0\Task1A.runtimeconfig.json
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\bin\Debug\net8.0\Task1A.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\bin\Debug\net8.0\Task1A.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\Task1A.genruntimeconfig.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task.CSharpBase\obj\Debug\net8.0\ref\Task1A.dll

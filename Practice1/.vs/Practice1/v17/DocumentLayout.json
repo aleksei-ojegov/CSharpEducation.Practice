@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D258F8D-F9EF-49B8-8E5D-4590F3D198D8}|Task4\\Practice1.Task4.csproj|e:\\visual studio\\csharpeducation.practice\\practice1\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D258F8D-F9EF-49B8-8E5D-4590F3D198D8}|Task4\\Practice1.Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D258F8D-F9EF-49B8-8E5D-4590F3D198D8}|Task4\\Practice1.Task4.csproj|e:\\visual studio\\csharpeducation.practice\\practice1\\task4\\practice1.task4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D258F8D-F9EF-49B8-8E5D-4590F3D198D8}|Task4\\Practice1.Task4.csproj|solutionrelative:task4\\practice1.task4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C516E856-2784-4631-9C57-2EFC1DB3DF7E}|Task.CSharpBase\\Practice1.Task1A.csproj|e:\\visual studio\\csharpeducation.practice\\practice1\\task.csharpbase\\practice1.task1a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C516E856-2784-4631-9C57-2EFC1DB3DF7E}|Task.CSharpBase\\Practice1.Task1A.csproj|solutionrelative:task.csharpbase\\practice1.task1a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C516E856-2784-4631-9C57-2EFC1DB3DF7E}|Task.CSharpBase\\Practice1.Task1A.csproj|e:\\visual studio\\csharpeducation.practice\\practice1\\task.csharpbase\\practice1.task1a.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C516E856-2784-4631-9C57-2EFC1DB3DF7E}|Task.CSharpBase\\Practice1.Task1A.csproj|solutionrelative:task.csharpbase\\practice1.task1a.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice1\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice1\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:27:45.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice1.Task4",
+              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice1\\Task4\\Practice1.Task4.csproj",
+              "RelativeDocumentMoniker": "Task4\\Practice1.Task4.csproj",
+              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice1\\Task4\\Practice1.Task4.csproj",
+              "RelativeToolTip": "Task4\\Practice1.Task4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T06:27:41.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task1A",
+              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice1\\Task.CSharpBase\\Practice1.Task1A.csproj",
+              "RelativeDocumentMoniker": "Task.CSharpBase\\Practice1.Task1A.csproj",
+              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice1\\Task.CSharpBase\\Practice1.Task1A.csproj",
+              "RelativeToolTip": "Task.CSharpBase\\Practice1.Task1A.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T06:24:21.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practice1.Task1A.csproj",
+              "DocumentMoniker": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice1\\Task.CSharpBase\\Practice1.Task1A.csproj",
+              "RelativeDocumentMoniker": "Task.CSharpBase\\Practice1.Task1A.csproj",
+              "ToolTip": "E:\\Visual Studio\\CSharpEducation.Practice\\Practice1\\Task.CSharpBase\\Practice1.Task1A.csproj",
+              "RelativeToolTip": "Task.CSharpBase\\Practice1.Task1A.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T06:23:33.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-28T06:23:20.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

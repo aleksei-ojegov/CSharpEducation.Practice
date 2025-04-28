@@ -12,3 +12,18 @@ C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task2\obj\De
 C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.pdb
 C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.genruntimeconfig.cache
 C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\ref\Practice2.Task2.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.exe
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.deps.json
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.runtimeconfig.json
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.AssemblyInfoInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.AssemblyInfo.cs
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.csproj.CoreCompileInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.sourcelink.json
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\refint\Practice2.Task2.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.genruntimeconfig.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice2.Task1\Practice2.Task2\obj\Debug\net8.0\ref\Practice2.Task2.dll

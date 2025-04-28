@@ -1,0 +1,15 @@
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\bin\Debug\net8.0\Task1B.exe
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\bin\Debug\net8.0\Task1B.deps.json
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\bin\Debug\net8.0\Task1B.runtimeconfig.json
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\bin\Debug\net8.0\Task1B.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\bin\Debug\net8.0\Task1B.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\Task1B.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\Task1B.AssemblyInfoInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\Task1B.AssemblyInfo.cs
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\Task1B.csproj.CoreCompileInputs.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\Task1B.sourcelink.json
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\Task1B.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\refint\Task1B.dll
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\Task1B.pdb
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\Task1B.genruntimeconfig.cache
+E:\Visual Studio\CSharpEducation.Practice\Practice1\Task1B\obj\Debug\net8.0\ref\Task1B.dll
