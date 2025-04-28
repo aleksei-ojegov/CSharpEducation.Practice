@@ -1,0 +1,14 @@
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\bin\Debug\net8.0\Practice2.Task6.exe
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\bin\Debug\net8.0\Practice2.Task6.deps.json
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\bin\Debug\net8.0\Practice2.Task6.runtimeconfig.json
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\bin\Debug\net8.0\Practice2.Task6.dll
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\bin\Debug\net8.0\Practice2.Task6.pdb
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\obj\Debug\net8.0\Practice2.Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\obj\Debug\net8.0\Practice2.Task6.AssemblyInfoInputs.cache
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\obj\Debug\net8.0\Practice2.Task6.AssemblyInfo.cs
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\obj\Debug\net8.0\Practice2.Task6.csproj.CoreCompileInputs.cache
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\obj\Debug\net8.0\Practice2.Task6.dll
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\obj\Debug\net8.0\refint\Practice2.Task6.dll
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\obj\Debug\net8.0\Practice2.Task6.pdb
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\obj\Debug\net8.0\Practice2.Task6.genruntimeconfig.cache
+C:\Users\Студент213-1\source\repos\Practice2.Task1\Practice2.Task6\obj\Debug\net8.0\ref\Practice2.Task6.dll
