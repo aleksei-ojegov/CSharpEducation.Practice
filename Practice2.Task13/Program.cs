@@ -5,7 +5,6 @@ namespace Practice2
 {
     class Start
     {
-
         static int[,] creat_mass(int row, int col)
         {
             Random random = new Random();
