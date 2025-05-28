@@ -11,7 +11,7 @@ namespace Practice5.Task1
         public string Name;
         public int Salary;
 
-        public double CalculateBones()
+        public virtual double CalculateBones()
         {
             return Math.Round((double)Salary * 0.1,2);
         }

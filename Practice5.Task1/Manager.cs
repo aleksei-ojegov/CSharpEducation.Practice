@@ -9,7 +9,7 @@ namespace Practice5.Task1
 {
     internal class Manager : Employee
     {
-        public double CalculateBones()
+        public override double CalculateBones()
         {
             if (TeamSize > 5)
                 return Math.Round((double)Salary * 0.25, 2);
